@@ -1,0 +1,15 @@
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Infrastructure\bin\Debug\net8.0\IssueTrackerPro.Infrastructure.deps.json
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Infrastructure\bin\Debug\net8.0\IssueTrackerPro.Infrastructure.dll
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Infrastructure\bin\Debug\net8.0\IssueTrackerPro.Infrastructure.pdb
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Infrastructure\bin\Debug\net8.0\IssueTrackerPro.Domain.dll
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Infrastructure\bin\Debug\net8.0\IssueTrackerPro.Domain.pdb
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Infrastructure\obj\Debug\net8.0\IssueTrackerPro.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Infrastructure\obj\Debug\net8.0\IssueTrackerPro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Infrastructure\obj\Debug\net8.0\IssueTrackerPro.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Infrastructure\obj\Debug\net8.0\IssueTrackerPro.Infrastructure.AssemblyInfo.cs
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Infrastructure\obj\Debug\net8.0\IssueTrackerPro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Infrastructure\obj\Debug\net8.0\IssueTra.AD2ED01B.Up2Date
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Infrastructure\obj\Debug\net8.0\IssueTrackerPro.Infrastructure.dll
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Infrastructure\obj\Debug\net8.0\refint\IssueTrackerPro.Infrastructure.dll
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Infrastructure\obj\Debug\net8.0\IssueTrackerPro.Infrastructure.pdb
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Infrastructure\obj\Debug\net8.0\ref\IssueTrackerPro.Infrastructure.dll

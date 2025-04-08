@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84B5DA98-4DF4-44AA-BE35-E6CEBD0FD6A5}|IssueTrackerPro.API\\IssueTrackerPro.API.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.api\\controllers\\issuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B5DA98-4DF4-44AA-BE35-E6CEBD0FD6A5}|IssueTrackerPro.API\\IssueTrackerPro.API.csproj|solutionrelative:issuetrackerpro.api\\controllers\\issuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E0D6C2-7B2F-487F-8E1C-4940A71B3C15}|IssueTrackerPro.Infrastructure\\IssueTrackerPro.Infrastructure.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.infrastructure\\repositories\\issuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E0D6C2-7B2F-487F-8E1C-4940A71B3C15}|IssueTrackerPro.Infrastructure\\IssueTrackerPro.Infrastructure.csproj|solutionrelative:issuetrackerpro.infrastructure\\repositories\\issuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E0D6C2-7B2F-487F-8E1C-4940A71B3C15}|IssueTrackerPro.Infrastructure\\IssueTrackerPro.Infrastructure.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.infrastructure\\services\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E0D6C2-7B2F-487F-8E1C-4940A71B3C15}|IssueTrackerPro.Infrastructure\\IssueTrackerPro.Infrastructure.csproj|solutionrelative:issuetrackerpro.infrastructure\\services\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58863958-53C9-4DE3-BFDE-C7A67ECB338F}|IssueTrackerPro.Domain\\IssueTrackerPro.Domain.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.domain\\interfaces\\repositories\\iissuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58863958-53C9-4DE3-BFDE-C7A67ECB338F}|IssueTrackerPro.Domain\\IssueTrackerPro.Domain.csproj|solutionrelative:issuetrackerpro.domain\\interfaces\\repositories\\iissuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58863958-53C9-4DE3-BFDE-C7A67ECB338F}|IssueTrackerPro.Domain\\IssueTrackerPro.Domain.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58863958-53C9-4DE3-BFDE-C7A67ECB338F}|IssueTrackerPro.Domain\\IssueTrackerPro.Domain.csproj|solutionrelative:issuetrackerpro.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58863958-53C9-4DE3-BFDE-C7A67ECB338F}|IssueTrackerPro.Domain\\IssueTrackerPro.Domain.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.domain\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58863958-53C9-4DE3-BFDE-C7A67ECB338F}|IssueTrackerPro.Domain\\IssueTrackerPro.Domain.csproj|solutionrelative:issuetrackerpro.domain\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58863958-53C9-4DE3-BFDE-C7A67ECB338F}|IssueTrackerPro.Domain\\IssueTrackerPro.Domain.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.domain\\enums\\issuestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58863958-53C9-4DE3-BFDE-C7A67ECB338F}|IssueTrackerPro.Domain\\IssueTrackerPro.Domain.csproj|solutionrelative:issuetrackerpro.domain\\enums\\issuestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58863958-53C9-4DE3-BFDE-C7A67ECB338F}|IssueTrackerPro.Domain\\IssueTrackerPro.Domain.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.domain\\entities\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58863958-53C9-4DE3-BFDE-C7A67ECB338F}|IssueTrackerPro.Domain\\IssueTrackerPro.Domain.csproj|solutionrelative:issuetrackerpro.domain\\entities\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B5DA98-4DF4-44AA-BE35-E6CEBD0FD6A5}|IssueTrackerPro.API\\IssueTrackerPro.API.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B5DA98-4DF4-44AA-BE35-E6CEBD0FD6A5}|IssueTrackerPro.API\\IssueTrackerPro.API.csproj|solutionrelative:issuetrackerpro.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.application\\dtos\\issuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|solutionrelative:issuetrackerpro.application\\dtos\\issuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.application\\features\\issue\\handlers\\getallissuesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|solutionrelative:issuetrackerpro.application\\features\\issue\\handlers\\getallissuesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.application\\features\\issue\\handlers\\getissuebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|solutionrelative:issuetrackerpro.application\\features\\issue\\handlers\\getissuebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.application\\features\\issue\\handlers\\getissuesbyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|solutionrelative:issuetrackerpro.application\\features\\issue\\handlers\\getissuesbyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.application\\features\\issue\\handlers\\updateissuecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|solutionrelative:issuetrackerpro.application\\features\\issue\\handlers\\updateissuecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.application\\features\\issue\\queries\\getallissuesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|solutionrelative:issuetrackerpro.application\\features\\issue\\queries\\getallissuesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.application\\features\\issue\\commands\\updateissuecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|solutionrelative:issuetrackerpro.application\\features\\issue\\commands\\updateissuecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.application\\features\\issue\\queries\\getissuebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|solutionrelative:issuetrackerpro.application\\features\\issue\\queries\\getissuebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B5DA98-4DF4-44AA-BE35-E6CEBD0FD6A5}|IssueTrackerPro.API\\IssueTrackerPro.API.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B5DA98-4DF4-44AA-BE35-E6CEBD0FD6A5}|IssueTrackerPro.API\\IssueTrackerPro.API.csproj|solutionrelative:issuetrackerpro.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B5DA98-4DF4-44AA-BE35-E6CEBD0FD6A5}|IssueTrackerPro.API\\IssueTrackerPro.API.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B5DA98-4DF4-44AA-BE35-E6CEBD0FD6A5}|IssueTrackerPro.API\\IssueTrackerPro.API.csproj|solutionrelative:issuetrackerpro.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B5DA98-4DF4-44AA-BE35-E6CEBD0FD6A5}|IssueTrackerPro.API\\IssueTrackerPro.API.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B5DA98-4DF4-44AA-BE35-E6CEBD0FD6A5}|IssueTrackerPro.API\\IssueTrackerPro.API.csproj|solutionrelative:issuetrackerpro.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.application\\features\\issue\\handlers\\createissuecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|solutionrelative:issuetrackerpro.application\\features\\issue\\handlers\\createissuecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.application\\features\\issue\\commands\\createissuecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|solutionrelative:issuetrackerpro.application\\features\\issue\\commands\\createissuecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.application\\features\\issue\\queries\\getissuesbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|solutionrelative:issuetrackerpro.application\\features\\issue\\queries\\getissuesbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.application\\features\\issue\\queries\\getissuesbyprojectquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|solutionrelative:issuetrackerpro.application\\features\\issue\\queries\\getissuesbyprojectquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.application\\features\\issue\\handlers\\getissuesbyprojectqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|solutionrelative:issuetrackerpro.application\\features\\issue\\handlers\\getissuesbyprojectqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.application\\features\\issue\\handlers\\assignissuecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3ACFA26-54D6-4DD2-846B-9D308A78877D}|IssueTrackerPro.Application\\IssueTrackerPro.Application.csproj|solutionrelative:issuetrackerpro.application\\features\\issue\\handlers\\assignissuecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B5DA98-4DF4-44AA-BE35-E6CEBD0FD6A5}|IssueTrackerPro.API\\IssueTrackerPro.API.csproj|c:\\users\\furka\\source\\repos\\c#\\issuetrackerpro\\issuetrackerpro.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84B5DA98-4DF4-44AA-BE35-E6CEBD0FD6A5}|IssueTrackerPro.API\\IssueTrackerPro.API.csproj|solutionrelative:issuetrackerpro.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Domain\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "IssueTrackerPro.Domain\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:16:09.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Domain\\Enums\\Priority.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Domain\\Enums\\Priority.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Domain\\Enums\\Priority.cs",
+              "RelativeToolTip": "IssueTrackerPro.Domain\\Enums\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:16:02.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IssueStatus.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Domain\\Enums\\IssueStatus.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Domain\\Enums\\IssueStatus.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Domain\\Enums\\IssueStatus.cs",
+              "RelativeToolTip": "IssueTrackerPro.Domain\\Enums\\IssueStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:15:52.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateIssueCommand.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Commands\\UpdateIssueCommand.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Application\\Features\\Issue\\Commands\\UpdateIssueCommand.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Commands\\UpdateIssueCommand.cs",
+              "RelativeToolTip": "IssueTrackerPro.Application\\Features\\Issue\\Commands\\UpdateIssueCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:49:44.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateIssueCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Handlers\\UpdateIssueCommandHandler.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Application\\Features\\Issue\\Handlers\\UpdateIssueCommandHandler.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Handlers\\UpdateIssueCommandHandler.cs",
+              "RelativeToolTip": "IssueTrackerPro.Application\\Features\\Issue\\Handlers\\UpdateIssueCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:50:18.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Domain\\Entities\\Issue.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Domain\\Entities\\Issue.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Domain\\Entities\\Issue.cs",
+              "RelativeToolTip": "IssueTrackerPro.Domain\\Entities\\Issue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:10:34.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IIssueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Domain\\Interfaces\\Repositories\\IIssueRepository.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Domain\\Interfaces\\Repositories\\IIssueRepository.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Domain\\Interfaces\\Repositories\\IIssueRepository.cs",
+              "RelativeToolTip": "IssueTrackerPro.Domain\\Interfaces\\Repositories\\IIssueRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:47:46.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Infrastructure\\Services\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Infrastructure\\Services\\Security\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Infrastructure\\Services\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "IssueTrackerPro.Infrastructure\\Services\\Security\\PasswordHasher.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwDUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:09:40.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IssueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Infrastructure\\Repositories\\IssueRepository.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Infrastructure\\Repositories\\IssueRepository.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Infrastructure\\Repositories\\IssueRepository.cs",
+              "RelativeToolTip": "IssueTrackerPro.Infrastructure\\Repositories\\IssueRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:33:48.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IssueController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.API\\Controllers\\IssueController.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.API\\Controllers\\IssueController.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.API\\Controllers\\IssueController.cs",
+              "RelativeToolTip": "IssueTrackerPro.API\\Controllers\\IssueController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAhwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:51:07.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAllIssuesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Queries\\GetAllIssuesQuery.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Application\\Features\\Issue\\Queries\\GetAllIssuesQuery.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Queries\\GetAllIssuesQuery.cs",
+              "RelativeToolTip": "IssueTrackerPro.Application\\Features\\Issue\\Queries\\GetAllIssuesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:24:27.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllIssuesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Handlers\\GetAllIssuesQueryHandler.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Application\\Features\\Issue\\Handlers\\GetAllIssuesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Handlers\\GetAllIssuesQueryHandler.cs",
+              "RelativeToolTip": "IssueTrackerPro.Application\\Features\\Issue\\Handlers\\GetAllIssuesQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:25:57.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IssueDto.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\DTOs\\IssueDto.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Application\\DTOs\\IssueDto.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\DTOs\\IssueDto.cs",
+              "RelativeToolTip": "IssueTrackerPro.Application\\DTOs\\IssueDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:16:20.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.API\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.API\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.API\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "IssueTrackerPro.API\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:39:21.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetIssuesByUserQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Handlers\\GetIssuesByUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Application\\Features\\Issue\\Handlers\\GetIssuesByUserQueryHandler.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Handlers\\GetIssuesByUserQueryHandler.cs",
+              "RelativeToolTip": "IssueTrackerPro.Application\\Features\\Issue\\Handlers\\GetIssuesByUserQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:50:13.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetIssueByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Handlers\\GetIssueByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Application\\Features\\Issue\\Handlers\\GetIssueByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Handlers\\GetIssueByIdQueryHandler.cs",
+              "RelativeToolTip": "IssueTrackerPro.Application\\Features\\Issue\\Handlers\\GetIssueByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:50:03.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "IssueTrackerPro.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:08:31.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.API\\Program.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.API\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.API\\Program.cs",
+              "RelativeToolTip": "IssueTrackerPro.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T19:21:44.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateIssueCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Handlers\\CreateIssueCommandHandler.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Application\\Features\\Issue\\Handlers\\CreateIssueCommandHandler.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Handlers\\CreateIssueCommandHandler.cs",
+              "RelativeToolTip": "IssueTrackerPro.Application\\Features\\Issue\\Handlers\\CreateIssueCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:35:37.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateIssueCommand.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Commands\\CreateIssueCommand.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Application\\Features\\Issue\\Commands\\CreateIssueCommand.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Commands\\CreateIssueCommand.cs",
+              "RelativeToolTip": "IssueTrackerPro.Application\\Features\\Issue\\Commands\\CreateIssueCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:08:52.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetIssueByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Queries\\GetIssueByIdQuery.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Application\\Features\\Issue\\Queries\\GetIssueByIdQuery.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Queries\\GetIssueByIdQuery.cs",
+              "RelativeToolTip": "IssueTrackerPro.Application\\Features\\Issue\\Queries\\GetIssueByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:50:23.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "IssueTrackerPro.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T19:18:54.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetIssuesByProjectQuery.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Queries\\GetIssuesByProjectQuery.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Application\\Features\\Issue\\Queries\\GetIssuesByProjectQuery.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Queries\\GetIssuesByProjectQuery.cs",
+              "RelativeToolTip": "IssueTrackerPro.Application\\Features\\Issue\\Queries\\GetIssuesByProjectQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:50:30.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetIssuesByUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Queries\\GetIssuesByUserQuery.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Application\\Features\\Issue\\Queries\\GetIssuesByUserQuery.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Queries\\GetIssuesByUserQuery.cs",
+              "RelativeToolTip": "IssueTrackerPro.Application\\Features\\Issue\\Queries\\GetIssuesByUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:50:35.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetIssuesByProjectQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Handlers\\GetIssuesByProjectQueryHandler.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Application\\Features\\Issue\\Handlers\\GetIssuesByProjectQueryHandler.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Handlers\\GetIssuesByProjectQueryHandler.cs",
+              "RelativeToolTip": "IssueTrackerPro.Application\\Features\\Issue\\Handlers\\GetIssuesByProjectQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:50:08.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AssignIssueCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Handlers\\AssignIssueCommandHandler.cs",
+              "RelativeDocumentMoniker": "IssueTrackerPro.Application\\Features\\Issue\\Handlers\\AssignIssueCommandHandler.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.Application\\Features\\Issue\\Handlers\\AssignIssueCommandHandler.cs",
+              "RelativeToolTip": "IssueTrackerPro.Application\\Features\\Issue\\Handlers\\AssignIssueCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:48:37.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.API\\appsettings.json",
+              "RelativeDocumentMoniker": "IssueTrackerPro.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\IssueTrackerPro\\IssueTrackerPro.API\\appsettings.json",
+              "RelativeToolTip": "IssueTrackerPro.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T19:06:00.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\bin\Debug\net8.0\IssueTrackerPro.Application.deps.json
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\bin\Debug\net8.0\IssueTrackerPro.Application.dll
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\bin\Debug\net8.0\IssueTrackerPro.Application.pdb
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\bin\Debug\net8.0\IssueTrackerPro.Domain.dll
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\bin\Debug\net8.0\IssueTrackerPro.Infrastructure.dll
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\bin\Debug\net8.0\IssueTrackerPro.Domain.pdb
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\bin\Debug\net8.0\IssueTrackerPro.Infrastructure.pdb
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\obj\Debug\net8.0\IssueTrackerPro.Application.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\obj\Debug\net8.0\IssueTrackerPro.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\obj\Debug\net8.0\IssueTrackerPro.Application.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\obj\Debug\net8.0\IssueTrackerPro.Application.AssemblyInfo.cs
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\obj\Debug\net8.0\IssueTrackerPro.Application.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\obj\Debug\net8.0\IssueTra.14187750.Up2Date
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\obj\Debug\net8.0\IssueTrackerPro.Application.dll
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\obj\Debug\net8.0\refint\IssueTrackerPro.Application.dll
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\obj\Debug\net8.0\IssueTrackerPro.Application.pdb
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Application\obj\Debug\net8.0\ref\IssueTrackerPro.Application.dll

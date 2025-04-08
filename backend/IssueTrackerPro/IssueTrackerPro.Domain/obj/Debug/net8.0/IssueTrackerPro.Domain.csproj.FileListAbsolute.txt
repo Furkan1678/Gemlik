@@ -1,0 +1,11 @@
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Domain\bin\Debug\net8.0\IssueTrackerPro.Domain.deps.json
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Domain\bin\Debug\net8.0\IssueTrackerPro.Domain.dll
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Domain\bin\Debug\net8.0\IssueTrackerPro.Domain.pdb
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Domain\obj\Debug\net8.0\IssueTrackerPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Domain\obj\Debug\net8.0\IssueTrackerPro.Domain.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Domain\obj\Debug\net8.0\IssueTrackerPro.Domain.AssemblyInfo.cs
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Domain\obj\Debug\net8.0\IssueTrackerPro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Domain\obj\Debug\net8.0\IssueTrackerPro.Domain.dll
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Domain\obj\Debug\net8.0\refint\IssueTrackerPro.Domain.dll
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Domain\obj\Debug\net8.0\IssueTrackerPro.Domain.pdb
+C:\Users\furka\source\repos\c#\IssueTrackerPro\IssueTrackerPro.Domain\obj\Debug\net8.0\ref\IssueTrackerPro.Domain.dll
