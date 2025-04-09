@@ -134,8 +134,7 @@
               "RelativeToolTip": "IssueTrackerPro.Domain\\Enums\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T21:16:09.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T21:16:09.232Z"
             },
             {
               "$type": "Document",
@@ -147,8 +146,7 @@
               "RelativeToolTip": "IssueTrackerPro.Domain\\Enums\\Priority.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T21:16:02.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T21:16:02.686Z"
             },
             {
               "$type": "Document",
@@ -160,8 +158,7 @@
               "RelativeToolTip": "IssueTrackerPro.Domain\\Enums\\IssueStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T21:15:52.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T21:15:52.312Z"
             },
             {
               "$type": "Document",
@@ -197,8 +194,7 @@
               "RelativeToolTip": "IssueTrackerPro.Domain\\Entities\\Issue.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T14:10:34.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T14:10:34.355Z"
             },
             {
               "$type": "Document",
@@ -210,8 +206,7 @@
               "RelativeToolTip": "IssueTrackerPro.Domain\\Interfaces\\Repositories\\IIssueRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T14:47:46.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T14:47:46.445Z"
             },
             {
               "$type": "Document",
@@ -223,8 +218,7 @@
               "RelativeToolTip": "IssueTrackerPro.Infrastructure\\Services\\Security\\PasswordHasher.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAmwDUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T11:09:40.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T11:09:40.387Z"
             },
             {
               "$type": "Document",
@@ -236,8 +230,7 @@
               "RelativeToolTip": "IssueTrackerPro.Infrastructure\\Repositories\\IssueRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T14:33:48.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T14:33:48.752Z"
             },
             {
               "$type": "Document",
@@ -286,8 +279,7 @@
               "RelativeToolTip": "IssueTrackerPro.Application\\DTOs\\IssueDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T14:16:20.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T14:16:20.244Z"
             },
             {
               "$type": "Document",
@@ -299,8 +291,7 @@
               "RelativeToolTip": "IssueTrackerPro.API\\Controllers\\ProjectController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T21:39:21.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T21:39:21.483Z"
             },
             {
               "$type": "Document",
